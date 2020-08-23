@@ -1,0 +1,11 @@
+P:\RESTaccess\RESTaccess\bin\Debug\RESTaccess.dll
+P:\RESTaccess\RESTaccess\bin\Debug\RESTaccess.pdb
+P:\RESTaccess\RESTaccess\obj\Debug\RESTaccess.csproj.CoreCompileInputs.cache
+P:\RESTaccess\RESTaccess\obj\Debug\RESTaccess.dll
+P:\RESTaccess\RESTaccess\obj\Debug\RESTaccess.pdb
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\RESTaccess\RESTaccess\bin\Debug\RESTaccess.dll
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\RESTaccess\RESTaccess\bin\Debug\RESTaccess.pdb
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\RESTaccess\RESTaccess\obj\Debug\RESTaccess.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\RESTaccess\RESTaccess\obj\Debug\RESTaccess.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\RESTaccess\RESTaccess\obj\Debug\RESTaccess.dll
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\RESTaccess\RESTaccess\obj\Debug\RESTaccess.pdb

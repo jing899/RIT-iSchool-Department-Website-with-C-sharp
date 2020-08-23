@@ -1,0 +1,101 @@
+P:\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe.config
+P:\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe
+P:\P3Csharp\P3Csharp\bin\Debug\P3Csharp.pdb
+P:\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.dll
+P:\P3Csharp\P3Csharp\bin\Debug\RESTaccess.dll
+P:\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.xml
+P:\P3Csharp\P3Csharp\bin\Debug\RESTaccess.pdb
+P:\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Form1.resources
+P:\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Properties.Resources.resources
+P:\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.GenerateResource.cache
+P:\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CoreCompileInputs.cache
+P:\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CopyComplete
+P:\P3Csharp\P3Csharp\obj\Debug\P3Csharp.exe
+P:\P3Csharp\P3Csharp\obj\Debug\P3Csharp.pdb
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe.config
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\P3Csharp.pdb
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\RESTaccess.dll
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\RESTaccess.pdb
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Form1.resources
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Properties.Resources.resources
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.GenerateResource.cache
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CopyComplete
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.exe
+\\vmware-host\Shared Folders\mjfics\RIT_Semesters\ISTE-340_754 Client RIP\Lectures\week12-C# P3 - REST\2191week11bTabAddPrep\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.pdb
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe.config
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\P3Csharp.pdb
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.dll
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\RESTaccess.dll
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.xml
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\bin\Debug\RESTaccess.pdb
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csprojAssemblyReference.cache
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Form1.resources
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Properties.Resources.resources
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.GenerateResource.cache
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CoreCompileInputs.cache
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CopyComplete
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.exe
+P:\P3CsharpDLLtabs\P3Csharp\P3Csharp\obj\Debug\P3Csharp.pdb
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe.config
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\bin\Debug\P3Csharp.pdb
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.dll
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\bin\Debug\RESTaccess.dll
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.xml
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\bin\Debug\RESTaccess.pdb
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csprojAssemblyReference.cache
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Form1.resources
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Properties.Resources.resources
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.GenerateResource.cache
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CoreCompileInputs.cache
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CopyComplete
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\obj\Debug\P3Csharp.exe
+P:\P3CsharpDLLtabsMapContact\P3Csharp\P3Csharp\obj\Debug\P3Csharp.pdb
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe.config
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\P3Csharp.pdb
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\RESTaccess.dll
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\RESTaccess.pdb
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Form1.resources
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Properties.Resources.resources
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.GenerateResource.cache
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CopyComplete
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.exe
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.pdb
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csprojAssemblyReference.cache
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.NewsForm.resources
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.StudyAbroadForm.resources
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.studentServiceForm.resources
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.labForm.resources
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.stuAmbForm.resources
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.FormsForm.resources
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe.config
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\P3Csharp.exe
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\P3Csharp.pdb
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\RESTaccess.dll
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\bin\Debug\RESTaccess.pdb
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csprojAssemblyReference.cache
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Form1.resources
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.FormsForm.resources
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.labForm.resources
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.NewsForm.resources
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.Properties.Resources.resources
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.stuAmbForm.resources
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.studentServiceForm.resources
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.StudyAbroadForm.resources
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.GenerateResource.cache
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.csproj.CopyComplete
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.exe
+C:\Users\Jing\Desktop\c\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.pdb
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.copEmpForm.resources
+C:\Users\Jing\Desktop\P3CsharpDLLtabsMapContactCombobox\P3CsharpDLLtabsMapContactCombobox\P3Csharp\P3Csharp\obj\Debug\P3Csharp.minorDes.resources
